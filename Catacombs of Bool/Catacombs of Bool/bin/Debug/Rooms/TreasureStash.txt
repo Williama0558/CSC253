@@ -1,0 +1,3 @@
+Treasure Stash
+The room where all of the treasure is kept
+From here you can see the Central Hall to the east(E), the Entrance to the north(N), and the Boss Room to the south(S)

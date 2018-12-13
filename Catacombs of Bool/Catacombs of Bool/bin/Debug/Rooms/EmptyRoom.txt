@@ -1,0 +1,3 @@
+Empty Room
+A room with nothing in it
+From here you can see the North Hall to the west(W) and the Armory to the south(S)

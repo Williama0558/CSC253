@@ -1,0 +1,3 @@
+South Hall
+The southernmost hall of the Catacombs
+From here you can see the Boss Room to the west(W), The Exit to the east(E), and the Central Hallway to the north(N)

@@ -1,0 +1,13 @@
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\GameDB.db
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\Catacombs of Bool.exe.config
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\Catacombs of Bool.exe
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\Catacombs of Bool.pdb
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\Dapper.dll
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\System.Data.SQLite.dll
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\Dapper.xml
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\System.Data.SQLite.xml
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\bin\Release\System.Data.SQLite.dll.config
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\obj\Release\Catacombs of Bool.csproj.CoreCompileInputs.cache
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\obj\Release\Catacombs of Bool.csproj.CopyComplete
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\obj\Release\Catacombs of Bool.exe
+E:\C#_Programming\CSC-253\Module5\Catacombs of Bool\Catacombs of Bool\obj\Release\Catacombs of Bool.pdb

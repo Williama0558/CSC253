@@ -1,0 +1,3 @@
+Exit
+The way out of the catacombs
+From here you can see the South Hall to the west(W) and the Armory to the north(N)

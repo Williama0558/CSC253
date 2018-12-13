@@ -1,0 +1,3 @@
+North Hall
+The northernmost hall of the Catacombs. Leads deeper into the dungeon.
+From here you can see the Entrance to the west(W), an empty room to the east(E), and the Central Hallway to the south(S)

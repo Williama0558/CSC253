@@ -1,0 +1,3 @@
+Boss Room
+Bool's Room
+From here you can see the South Hall to the east(E) and the Treasure Room to the north(N)

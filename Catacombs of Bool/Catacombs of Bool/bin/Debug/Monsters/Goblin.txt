@@ -1,0 +1,5 @@
+Goblin
+A short green creature.
+20
+5
+6

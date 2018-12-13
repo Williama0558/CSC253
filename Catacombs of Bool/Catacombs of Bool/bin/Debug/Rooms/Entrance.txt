@@ -1,0 +1,3 @@
+Entrance
+The entrance of the Catacombs
+From here you can see the North Hall to the east(E) and the Treasure Room to the south(S)

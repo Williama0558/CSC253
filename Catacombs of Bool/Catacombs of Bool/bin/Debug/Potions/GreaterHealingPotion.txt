@@ -1,0 +1,3 @@
+Greater Healing Potion
+A magical potion that restores a great deal of health
+50

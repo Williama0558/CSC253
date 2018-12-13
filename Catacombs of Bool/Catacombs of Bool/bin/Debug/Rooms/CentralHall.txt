@@ -1,0 +1,3 @@
+Central Hall
+The Central Hall of the Catacombs
+From here you can see the Treasure Stash to the west(W), The Armory to the east(E), the South Hallway to the south(S), and the North Hallway to the north(N)

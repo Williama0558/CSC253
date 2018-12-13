@@ -1,0 +1,3 @@
+HealingPotion
+A magical potion that restores a bit of health
+25
